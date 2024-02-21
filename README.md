@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ALbert</h1>
+<h1 align="center">Hi 👋, I'm Albert</h1>
 <h3 align="center">A passionate undergraduate student that love to uncover new technologies!</h3>
 
 - 🌱 I’m currently learning **C++, Python, SQL, Pandas**
